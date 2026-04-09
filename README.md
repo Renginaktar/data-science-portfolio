@@ -10,25 +10,19 @@ PhD Sociology/Demography. 17+ years quantitative research. MIT Certified.
 
 ## Projects
 
-### 1. FoodHub Restaurant Data
-Exploratory Data Analysis | pandas, matplotlib, seaborn
-- Restaurant performance analysis
-- Order patterns and business insights
-- Data-driven recommendations
-
-### 2. HMEQ Loan Default Prediction
+### 1. HMEQ Loan Default Prediction
 Classification | XGBoost, SMOTE, SHAP, threshold optimization
 - 85.15% recall, 75.62% precision
 - SHAP explainability & force plots
 - Cost-benefit analysis for production deployment
 
-### 3. ExtraaLearn EdTech Lead Conversion
+### 2. ExtraaLearn EdTech Lead Conversion
 Classification | Decision Trees, Random Forests, SHAP
 - Business recommendations from feature importance
 - SHAP dependence analysis
 - Model interpretability for stakeholder communication
 
-### 4. Cardiovascular Disease Risk Prediction
+### 3. Cardiovascular Disease Risk Prediction
 Classification | Logistic, k-NN, LDA, QDA
 - 70k patients, multi-algorithm comparison
 - Fairness & AI Governance: Gender bias assessment (<1% disparity)
