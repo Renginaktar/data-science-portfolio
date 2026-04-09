@@ -16,13 +16,7 @@ Classification | XGBoost, SMOTE, SHAP, threshold optimization
 - SHAP explainability & force plots
 - Cost-benefit analysis for production deployment
 
-### 2. ExtraaLearn EdTech Lead Conversion
-Classification | Decision Trees, Random Forests, SHAP
-- Business recommendations from feature importance
-- SHAP dependence analysis
-- Model interpretability for stakeholder communication
-
-### 3. Cardiovascular Disease Risk Prediction
+### 2. Cardiovascular Disease Risk Prediction
 Classification | Logistic, k-NN, LDA, QDA
 - 70k patients, multi-algorithm comparison
 - Fairness & AI Governance: Gender bias assessment (<1% disparity)
