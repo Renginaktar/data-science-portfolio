@@ -37,10 +37,25 @@ Classification | Logistic, k-NN, LDA, QDA
 
 ## Skills
 
-- Classification: Logistic, Decision Trees, RF, XGBoost, LightGBM
-- Interpretability: SHAP, feature importance, dependence plots
-- Fairness: Bias analysis, EU AI Act compliance
-- Statistical Methods: Bootstrap, hypothesis testing, confidence intervals
+**Machine Learning:**
+- Classification: Logistic, Decision Trees, Random Forests, XGBoost, LightGBM
+- Regression: OLS, Ridge, Lasso, Random Forest Regressor, XGBoost
+- Model Validation: Cross-validation, hyperparameter tuning, grid search
+- Ensemble Methods: Bagging, boosting, SMOTE for class imbalance
+
+**Interpretability & Fairness:**
+- SHAP feature importance, dependence plots, force plots
+- Feature importance analysis (tree-based, permutation)
+- Bias detection, fairness metrics, EU AI Act compliance
+
+**Statistical Methods:**
+- Bootstrap confidence intervals, hypothesis testing
+- Probability distributions, statistical inference
+
+**Technical Stack:**
+- Python: pandas, scikit-learn, XGBoost, LightGBM, SHAP, statsmodels
+- Data Visualization: matplotlib, seaborn
+- Exploratory Data Analysis, data cleaning, feature engineering
 
 ## Contact
 
