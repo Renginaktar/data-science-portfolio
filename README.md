@@ -1,2 +1,48 @@
-# data-science-portfolio
-Data Science Portfolio | Statistical Modeling, ML &amp; Interpretability Classification, regression, time series, NLP, recommendation systems. Specialized in survey-aware ML, SHAP interpretability, fairness analysis. PhD Sociology/Demography. 17+ years quantitative research. MIT Certified.
+# Data Science Portfolio
+
+Behavioral Data Scientist | Statistical Modeling, ML & Interpretability
+
+## About
+
+Classification, regression, time series, NLP, recommendation systems.
+Specialized in survey-aware ML, SHAP interpretability, fairness analysis.
+PhD Sociology/Demography. 17+ years quantitative research. MIT Certified.
+
+## Projects
+
+### 1. FoodHub Restaurant Data
+Exploratory Data Analysis | pandas, matplotlib, seaborn
+- Restaurant performance analysis
+- Order patterns and business insights
+- Data-driven recommendations
+
+### 2. HMEQ Loan Default Prediction
+Classification | XGBoost, SMOTE, SHAP, threshold optimization
+- 85.15% recall, 75.62% precision
+- SHAP explainability & force plots
+- Cost-benefit analysis for production deployment
+
+### 3. ExtraaLearn EdTech Lead Conversion
+Classification | Decision Trees, Random Forests, SHAP
+- Business recommendations from feature importance
+- SHAP dependence analysis
+- Model interpretability for stakeholder communication
+
+### 4. Cardiovascular Disease Risk Prediction
+Classification | Logistic, k-NN, LDA, QDA
+- 70k patients, multi-algorithm comparison
+- Fairness & AI Governance: Gender bias assessment (<1% disparity)
+- EU AI Act compliance evaluation
+- Bootstrap confidence intervals for model stability
+
+## Skills
+
+- Classification: Logistic, Decision Trees, RF, XGBoost, LightGBM
+- Interpretability: SHAP, feature importance, dependence plots
+- Fairness: Bias analysis, EU AI Act compliance
+- Statistical Methods: Bootstrap, hypothesis testing, confidence intervals
+
+## Contact
+
+www.linkedin.com/in/rengin-aktar-61aa2094
+renginaktar@gmail.com
